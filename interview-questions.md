@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: I don't know the exact definition of props, but I do know they are similar to state. My understanding is when you build a constructor in a class, it requires state to call upon the class, and to call that class from another file you need to use this.props instead of this.state. 
 
-  Researched answer: Properties passed from the parent component to the child compoenent 
+  Researched answer: Properties passed from the parent component to the child compoenent. Props work similar to how parameters and arguements work in normal JavaScript. 
 
 
 
@@ -17,13 +17,13 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: So a DOM is a document online markup which allows for documents to be view on the user interface, but as for a DOM event I'm not entirly sure. To me it sounds like it works to display whatever it needs to display to the user interface.
 
-  Researched answer: DOM event allows JavaScript code to work on HTML elements.
+  Researched answer: DOM event allows JavaScript code to work on HTML elements. That code is more specifically JavaScript functions, which won't run until the DOM event is activated. For instance, when the user presses a button on the web page, or any other action that requires the user input.
 
 
 
 3. What is object-oriented programming? How is it different than functional programming?
 
-  Your answer: I'm don't know what that is or something I can relate it to. I will definetly look that up after this interview to find the answer though
+  Your answer: I don't know what that is or something I can relate it to. I will definetly look that up after this interview to find the answer though
 
   Researched answer: Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated.
   (source: https://www.gartner.com/en/information-technology/glossary/oop-object-oriented-programming)
@@ -34,7 +34,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A float in Ruby is basically an integer with a decimal point. They're both a number, but one just has that decimal point.
 
-  Researched answer: A float contains a decimal point while an integer doesn't
+  Researched answer: A float contains a decimal point while an integer doesn't. A quick example would be 3.5(float) and 3(integer).
 
 
 
@@ -42,7 +42,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Implicit return is basically saying that what you want to be returned dosen't need to have the built in method "return". It just works without the need of it, but does work if the devoloper puts it there anyways.
 
-  Researched answer: Returns the last line of code automatically without the 'return' keyword being used.
+  Researched answer: Returns the last line of code automatically without the 'return' keyword being used. This doesn't mean return doesn't work at all, 'return' can still be used but it's really neccessary. One instance of it being neccessary is if there are two values but only one is getting implicitly returned. Then you would manually return the other value that you want.
 
 
 
